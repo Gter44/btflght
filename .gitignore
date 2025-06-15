@@ -46,7 +46,7 @@ stm32.mak
 
 .vagrant
 ubuntu*.log
-*/.vs
+*/.vs/
 
 # EEPROM image file (created by SITL)
 eeprom.bin
