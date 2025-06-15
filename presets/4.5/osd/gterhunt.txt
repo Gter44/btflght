@@ -1,0 +1,29 @@
+#$ TITLE: gterhunt analog OSD config
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: ******
+#$ KEYWORDS: OSD
+#$ AUTHOR: gterhunt
+
+#$ DESCRIPTION: Its desription
+
+# Common settings
+
+set acc_calibration = -43,-41,-4084,1
+set osd_vbat_pos = 14753
+set osd_rssi_dbm_pos = 14369
+set osd_flymode_pos = 14381
+set osd_crosshairs_pos = 14574
+set osd_ah_sbar_pos = 14607
+set osd_ah_pos = 14479
+set osd_current_pos = 14785
+set osd_flight_dist_pos = 14689
+set osd_altitude_pos = 14805
+set osd_warnings_pos = 14666
+set osd_disarmed_pos = 14794
+set osd_displayport_device = AUTO
+set osd_canvas_width = 30
+set osd_canvas_height = 13
+set vcd_video_system = AUTO
+set gyro_1_sensor_align = CW270
+set gyro_1_align_pitch = 0
