@@ -1,7 +1,7 @@
 #$ TITLE: gterhunt analog OSD config
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
-#$ STATUS: ******
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: OSD
 #$ AUTHOR: gterhunt
 
